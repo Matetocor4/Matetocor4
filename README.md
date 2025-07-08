@@ -1,22 +1,19 @@
-¡Hola, soy Mateo! 👋
-_________________________________________________________________________________________________________________________________________________________________________________________________________
+¡Hola, soy Mateo! 👋🤓 
+
 🚀 Sobre mí
-Soy Científico de Datos y estudiante de Topografía con experiencia en proyectos de infraestructura vial y uso de
-herramientas tecnológicas. He participado en inventarios viales en Colombia, aplicando metodologías
-innovadoras para optimizar la recolección y análisis de datos mediante Sistemas de Información Geográfica
-(SIG). Con habilidades en Excel, SQL, Python, Power BI y Machine Learning, mi enfoque en la mejora continua
+
+Soy Científico de Datos y estudiante de Topografía con experiencia en proyectos de infraestructura vial y uso de herramientas tecnológicas. He participado en inventarios viales en Colombia, aplicando metodologías
+innovadoras para optimizar la recolección y análisis de datos mediante Sistemas de Información Geográfica (SIG). Con habilidades en Excel, SQL, Python, Power BI y Machine Learning, mi enfoque en la mejora continua
 me permite abordar proyectos complejos desde la limpieza hasta la visualización de grandes volúmenes de datos.
+
+Actualment
 
 Análisis de datos topográficos utilizando Python y herramientas GIS
 Desarrollo de dashboards interactivos en Power BI para análisis geoespacial
 Modelos de Machine Learning aplicados a datos de levantamientos topográficos
 Automatización de procesos con Python para análisis de datos masivos
 
-🔗 Enlaces
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-🛠️ Habilidades
+
 Análisis de Datos:
 
 Python (pandas, numpy, matplotlib, seaborn)
