@@ -1,8 +1,11 @@
 ¡Hola, soy Mateo! 👋
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 🚀 Sobre mí
-Soy un Científico y Analista de Datos especializado en Topografía, apasionado por transformar datos en insights valiosos. Mi enfoque combina técnicas estadísticas avanzadas con herramientas modernas de visualización para resolver problemas complejos en el mundo real.
-🔧 Actualmente estoy trabajando en:
+Soy Científico de Datos y estudiante de Topografía con experiencia en proyectos de infraestructura vial y uso de
+herramientas tecnológicas. He participado en inventarios viales en Colombia, aplicando metodologías
+innovadoras para optimizar la recolección y análisis de datos mediante Sistemas de Información Geográfica
+(SIG). Con habilidades en Excel, SQL, Python, Power BI y Machine Learning, mi enfoque en la mejora continua
+me permite abordar proyectos complejos desde la limpieza hasta la visualización de grandes volúmenes de datos.
 
 Análisis de datos topográficos utilizando Python y herramientas GIS
 Desarrollo de dashboards interactivos en Power BI para análisis geoespacial
