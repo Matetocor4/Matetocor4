@@ -6,12 +6,12 @@ Soy Científico de Datos y estudiante de Topografía con experiencia en proyecto
 innovadoras para optimizar la recolección y análisis de datos mediante Sistemas de Información Geográfica (SIG). Con habilidades en Excel, SQL, Python, Power BI y Machine Learning, mi enfoque en la mejora continua
 me permite abordar proyectos complejos desde la limpieza hasta la visualización de grandes volúmenes de datos.
 
-Actualment
+Realizo proyectos enfocados hacía:
 
-Análisis de datos topográficos utilizando Python y herramientas GIS
-Desarrollo de dashboards interactivos en Power BI para análisis geoespacial
-Modelos de Machine Learning aplicados a datos de levantamientos topográficos
-Automatización de procesos con Python para análisis de datos masivos
+* Análisis de datos y Ciencias de Datos
+* Desarrollo de dashboards interactivos en Power BI y Looker Studio
+* Geonalítica de datos con Sistemas de Información Geográfica
+* Automatización de procesos con Python para análisis de datos 
 
 
 Análisis de Datos:
