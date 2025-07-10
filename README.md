@@ -16,13 +16,6 @@ Realizo proyectos enfocados en:
 * Automatización de procesos con Python para análisis de datos y Machine Learning
 __________________________________________________________________________________________________________________________________________
 
-*Analítica de Datos:* Python, My SQL, Excel avanzado, Power BI, Looker Studio
-*Topografía y GIS:* AutoCAD Civil 3D, ArcgisPro, QGIS
-*Machine Learning:* Scikit-learn, TensorFlow, Análisis predictivo, Modelos de clasificación y regresión
-
-📫 ¿Cómo contactarme?
-
-📧 Email: _tocoramateo@gmail.com_
-💼 LinkedIn: _https://www.linkedin.com/in/mateo-tocora/_
-📱 WhatsApp: +57 302 817 3246
-🌐 Ubicación: Bogotá D.C, Colombia
+* *Analítica de Datos:* Python, My SQL, Excel avanzado, Power BI, Looker Studio
+* *Topografía y GIS:* AutoCAD Civil 3D, ArcgisPro, QGIS
+* *Machine Learning:* Scikit-learn, TensorFlow, Análisis predictivo, Modelos de clasificación y regresión
