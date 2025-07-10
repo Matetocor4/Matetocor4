@@ -19,3 +19,6 @@ ________________________________________________________________________________
 * *Analítica de Datos:* Python, My SQL, Excel avanzado, Power BI, Looker Studio
 * *Topografía y GIS:* AutoCAD Civil 3D, ArcgisPro, QGIS
 * *Machine Learning:* Scikit-learn, TensorFlow, Análisis predictivo, Modelos de clasificación y regresión
+__________________________________________________________________________________________________________________________________________
+
+_*Grupo de Investigación de Infraestrucutra Sostenible*_
