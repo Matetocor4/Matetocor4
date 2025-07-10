@@ -1,62 +1,28 @@
 ¡Hola, soy Mateo! 👋🤓 
+___________________________________________________________________________________________________________________________________________
 
 🚀 Sobre mí
+___________________________________________________________________________________________________________________________________________
 
 Soy Científico de Datos y estudiante de Topografía con experiencia en proyectos de infraestructura vial y uso de herramientas tecnológicas. He participado en inventarios viales en Colombia, aplicando metodologías
 innovadoras para optimizar la recolección y análisis de datos mediante Sistemas de Información Geográfica (SIG). Con habilidades en Excel, SQL, Python, Power BI y Machine Learning, mi enfoque en la mejora continua
 me permite abordar proyectos complejos desde la limpieza hasta la visualización de grandes volúmenes de datos.
 
-Realizo proyectos enfocados hacía:
+Realizo proyectos enfocados en:
 
-* Análisis de datos y Ciencias de Datos
+* Análisis y Ciencias de Datos
 * Desarrollo de dashboards interactivos en Power BI y Looker Studio
 * Geonalítica de datos con Sistemas de Información Geográfica
-* Automatización de procesos con Python para análisis de datos 
+* Automatización de procesos con Python para análisis de datos y Machine Learning
+__________________________________________________________________________________________________________________________________________
 
-
-Análisis de Datos:
-
-Python (pandas, numpy, matplotlib, seaborn)
-R para análisis estadístico
-SQL para bases de datos
-Excel avanzado con VBA
-
-Visualización:
-
-Power BI
-Tableau
-Plotly & Dash
-Matplotlib & Seaborn
-
-Topografía y GIS:
-
-AutoCAD
-ArcGIS Pro
-QGIS
-Levantamientos topográficos
-
-Machine Learning:
-
-Scikit-learn
-TensorFlow
-Análisis predictivo
-Modelos de clasificación y regresión
-
-📊 Stack con el que puedo trabajar
-Frontend: HTML, CSS, JavaScript básico para dashboards web
-Backend: Python, SQL, bases de datos relacionales
-Herramientas: Git, Jupyter Notebook, Visual Studio Code, Power BI Desktop
-Especialización: Análisis geoespacial, procesamiento de datos topográficos, estadística aplicada
-📈 Mis proyectos destacados
-
-🗺️ Análisis Topográfico Avanzado - Procesamiento de datos de levantamientos con Python
-📊 Dashboard Power BI - Visualización interactiva de datos geoespaciales
-🤖 ML para Topografía - Modelos predictivos para análisis de terreno
-📋 Automatización Excel-Python - Scripts para procesamiento masivo de datos
+*Analítica de Datos:* Python, My SQL, Excel avanzado, Power BI, Looker Studio
+*Topografía y GIS:* AutoCAD Civil 3D, ArcgisPro, QGIS
+*Machine Learning:* Scikit-learn, TensorFlow, Análisis predictivo, Modelos de clasificación y regresión
 
 📫 ¿Cómo contactarme?
 
-📧 Email: tu-email@gmail.com
-💼 LinkedIn: tu-perfil-linkedin
-📱 WhatsApp: +57 XXX XXX XXXX
-🌐 Ubicación: Bogotá, Colombia
+📧 Email: _tocoramateo@gmail.com_
+💼 LinkedIn: _https://www.linkedin.com/in/mateo-tocora/_
+📱 WhatsApp: +57 302 817 3246
+🌐 Ubicación: Bogotá D.C, Colombia
